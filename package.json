@@ -1,0 +1,21 @@
+{
+  "name": "react-autocomplete",
+  "version": "1.0.0",
+  "description": "test case",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "node-sass": "^3.5.3",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1"
+  }
+}
